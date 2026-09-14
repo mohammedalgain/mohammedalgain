@@ -1,15 +1,14 @@
-# Hi, I'm Mohammed Abdulmajid Algain 👋
+# Hi, I'm Mohammed Algain 👋
 
 ### 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mohammedalgain)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammedalgain)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammedalgain)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mohammed-algain-287111360)
 
 ---
 
 ## About Me:
-I'm a Computer Science graduate from the Islamic University of Madinah with experience in **Python, SQL, and JavaScript**, and expertise in **Data Science & Analytics** using Pandas, NumPy, and Scikit-learn. My graduation project — an AI-powered brain tumor detection system — was nominated **Best Graduation Project of the Year**. I have a strong interest in **AI & Machine Learning**, **RAG pipelines**, and **Web Scraping & Automation**, and I'm currently seeking opportunities as a **Data Scientist / Data Analyst** in Saudi Arabia.
+I'm a Computer Science graduate with experience in **Python, SQL, and Java**, and expertise in **Data Science & Analytics** using Pandas, NumPy, and Scikit-learn. I have a strong interest in **AI & Machine Learning**, **RAG pipelines**, and **Web Scraping & Automation**, and I'm currently seeking expanding my knowledge in **Data Scientist / Data Analyst**.
 
 ---
 
@@ -47,13 +46,3 @@ I'm a Computer Science graduate from the Islamic University of Madinah with expe
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-## 🚀 Featured Projects:
-
-- **[AI-Powered Brain Tumor Detection](https://github.com/mohammedalgain)** — Graduation project using EfficientNet-B0, Grad-CAM, and a RAG pipeline with DeepSeek-VL2-27B, backed by Firebase. Nominated Best Graduation Project of the Year.
-- **[Olist Brazilian E-Commerce Analysis](https://github.com/mohammedalgain)** — SQL/Python analysis of a large-scale e-commerce dataset.
-- **[Customer Churn Prediction](https://github.com/mohammedalgain)** — Scikit-learn model achieving a ~34% recall lift and 0.88 AUC-ROC.
-- **[Airbnb Market Analytics Dashboard](https://github.com/mohammedalgain)** — Tableau dashboard built on a 15M+ row dataset.
-- **[Amazon.sa Price Tracker](https://github.com/mohammedalgain)** — Python + BeautifulSoup scraper for price monitoring.
-- **[TWD-RAG](https://github.com/mohammedalgain)** — Walking Dead wiki Q&A app using sentence-transformers, Groq, and Streamlit.
