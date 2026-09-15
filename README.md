@@ -8,7 +8,7 @@
 ---
 
 ## About Me:
-I'm a Computer Science graduate with experience in Python, SQL, and Java, and expertise in Data Science & Analytics using Pandas, NumPy, and Scikit-learn. I have a strong interest in AI & Machine Learning, RAG pipelines, and Web Scraping & Automation, and I'm currently expanding my knowledge in Data Scientist / Data Analyst.
+Computer Science graduate with experience in Python, SQL, and Java, and expertise in Data Science & Analytics using Pandas, NumPy, and Scikit-learn. I have a strong interest in AI & Machine Learning, RAG pipelines, and Web Scraping & Automation, and I'm currently expanding my knowledge in Data Scientist / Data Analyst.
 
 ---
 
